@@ -77,7 +77,7 @@ El objetivo de este proyecto es agrupar y clasificar especímenes de pingüinos 
 
 ### Diccionario de datos
 
-> **Origen de los datos:** Los datos fueron recopilados y puestos a disposición por la Dra. Kristen Gorman y la *Palmer Station, Antarctica LTER*, miembro de la *Long Term Ecological Research Network*.
+**Origen de los datos:** Los datos fueron recopilados y puestos a disposición por la Dra. Kristen Gorman y la *Palmer Station, Antarctica LTER*, miembro de la *Long Term Ecological Research Network*.
 
 El conjunto de datos consta de **5 columnas** que describen las medidas físicas de los pingüinos:
 
